@@ -69,3 +69,6 @@ Knowledge Architecture: How DSRS Components Relate
 Services → use Technical Tools like Azure, JupyterHub, and MinIO. Projects → are supported by Services (consulting, analytics) and Tools (secure compute, databases). Datasets → power Projects and are curated through DataHub. Internships and Collaborations → emerge from real-world application of Projects and Services.
 
 This structure ensures a connected ecosystem: tools and services support research, which in turn enables learning, collaboration, and innovation.
+
+
+### Ignore the bottom part of the ipnyb file unless you want a personal challenge ###
